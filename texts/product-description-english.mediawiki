@@ -1,0 +1,96 @@
+==Preview==
+<p>Fast paced arcade action is the name of the game in Jets'n'Guns.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Fast paced arcade action is the name of the game in Jets'n'Guns. Side-scrolling shooters have never been better, with 43 levels of action, saving the universe through levels in space, underwater, through jungles, and across lava planets. With over 270 different enemies, 90 different ship upgrades, and 12 different ships, endless variety awaits you in levels designed with huge detail, and with amazing effects.</p>
+<ul>
+<li>Save the Universe in 43 levels full of thrilling action, shooting and demolition!</li>
+<li>New environment in every level (deep space, jungle, undersea, lava planet...)</li>
+<li>More than 270 enemies including 16 boss monsters. </li>
+<li>Enjoy the destruction with 70 different weapons!</li>
+<li>Upgrade your ship with 20 special devices! </li>
+<li>Fly in 12 different vessels, even in some boss ships!</li>
+<li>Superior graphic and particle effects enhancing the destruction! </li>
+<li>Combinations of weapons give hundreds possibilities how to customize your ship!</li>
+<li>More than one hour of breathtaking original soundtrack! </li>
+<li>Sounds and sound-effects just like from a Hollywood movie!</li>
+</ul>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video src="http://videos.fun4tux.ch/jets-trailer-en.ogg" width="515" controls="true"> </video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demofiles.linuxgamepublishing.com/jets/" target="_blank">Demo for Jets'n'Guns</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/jets/" target="_blank">Updates for Jets'n'Guns</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom and manual in a DVD box<br /></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>1.8 GHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 128 MB video memory <br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>128 MB<br /></td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>100 MB<br /></td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>CD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>

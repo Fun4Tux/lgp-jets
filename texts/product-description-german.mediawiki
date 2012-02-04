@@ -1,0 +1,100 @@
+==Preview==
+<p>Schnelle Action ist Programm bei Jets'n'Guns!</p>
+
+==Text==
+<p><strong><strong>Das Spiel</strong><br /></strong></p>
+<p>Schnelle Action ist Programm bei Jets'n'Guns, Sidescroller waren nie besser! Mit &uuml;ber 40 actiongeladenen Levels, mehr als 270 individuellen Gegnern, 90 Schiffupgrades und 12 unterschiedlichen Schiffen muss der Spieler das Universum in Weltraum, unter Wasser, in Urw&auml;ldern und auf Lava-Planeten retten. Begleitet wird er dabei von einem grafischen Effektfeuerwerk.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Rettung des Universums in 43 Levels, welche eine gewaltige Dosis an Action, Geballere und Zerst&ouml;rung bieten</li>
+<li>Unterschiedliche Umwelt in jedem der Levels</li>
+<li>&Uuml;ber 270 Gegner, davon 16 Boss-Monster</li>
+<li>Arsenal mit 70 verschiedenen Waffen</li>
+<li>20 verschiedenen M&ouml;glichkeiten, das Schiff aufzur&uuml;sten</li>
+<li>12 spielbare Schiffe</li>
+<li>Wunderbare Grafik und h&uuml;bsche Partikeleffekte welche die Zerst&ouml;rung illustrieren</li>
+<li>Hunderte von M&ouml;glichkeiten, die Waffen zu kombinieren</li>
+<li>Mehr als 60 Minuten umwerfenden Soundtrack</li>
+<li>Sounds und Soundeffekte wie aus einem Hollywood-Film!</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+</ul>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/jets-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong><strong>Allgemeine Informationen zum Spiel</strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/jets/" target="_blank">Demo f&uuml;r Jets'n'Guns</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/jets/" target="_blank">Updates f&uuml;r Jets'n'Guns</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>DVD und Anleitung in DVD-H&uuml;lle<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong><strong>Minimale Systemanforderungen</strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>1.8 GHz x86<br /></td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>hardwarebeschleunigte 3D-Grafikkarte mit 128MB Ram und korrekt installierten, funktionsf&auml;higen Treibern<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>128 MB<br /></td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>100 MB<br /></td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>ALSA oder OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>CD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
