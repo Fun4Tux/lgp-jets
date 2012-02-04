@@ -45,11 +45,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/jets/" target="_blank">Demo f&uuml;r Jets'n'Guns</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/jets/" target="_blank">Demo f&uuml;r Jets'n'Guns</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/jets/" target="_blank">Updates f&uuml;r Jets'n'Guns</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/jets/" target="_blank">Updates f&uuml;r Jets'n'Guns</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
